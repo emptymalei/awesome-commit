@@ -1,10 +1,15 @@
-# gitcommit
-git commit messages
+# Awesome Git Commit Messages
 
-## emoji
 
-[http://www.emoji-cheat-sheet.com/](http://www.emoji-cheat-sheet.com/)
+## Frankly, my dear, I don't give a damn. - Gone with the Wind
 
-## Movie Quotes
+* `Frankly, my dear, I don't give a damn. - Gone with the Wind`
 
-[AFI's 100 Years...100 Movie Quotes](https://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Movie_Quotes)
+
+
+
+
+
+## Just Want to Be Awesome
+
+Checkout [resources.md](resources.md).
