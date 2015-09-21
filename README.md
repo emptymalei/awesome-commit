@@ -1,6 +1,9 @@
 # gitcommit
 git commit messages
 
+## emoji
+
+[http://www.emoji-cheat-sheet.com/](http://www.emoji-cheat-sheet.com/)
 
 ## Movie Quotes
 
